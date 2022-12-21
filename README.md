@@ -1,0 +1,1 @@
+curl http://localhost:8080/404;curl http://localhost:8080/custom;curl http://localhost:8080/500;curl http://localhost:8080/200
